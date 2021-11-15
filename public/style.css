@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #fff4e4;
+}
+
+section {
+  padding-top: 3rem;
+}
+
+#ktp {
+  padding-left: 5rem;
+  padding-top: 6rem;
+  background-color: #bbfff0;
+}
+
+#list {
+  padding-top: 6rem;
+}
+
+#gatau {
+  background-color: #bbfff0;
+}
