@@ -8,7 +8,7 @@
 	<h2>Naufal Sadewa (5026201136) / PWEB B</h2>
 	<h3>Data Tugas</h3>
 
-	<a href="/tugas/tambah"> + Tambah Pegawai Baru</a>
+	<a href="/tugas/tambah"> + Tambah Tugas Baru</a>
 
 	<br/>
 	<br/>
