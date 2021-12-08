@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Penugasan Tabel Laravel - 5026201136</title>
-</head>
-<body>
+@extends('layout.ceria')
+
+@section('isikonten')
 
 	<h2>Naufal Sadewa (5026201136) / PWEB B</h2>
 	<h3>Data Tugas</h3>
@@ -22,5 +19,4 @@
 		<input type="submit" value="Simpan Data">
 	</form>
 
-</body>
-</html>
+@endsection
