@@ -53,3 +53,12 @@ Route::post('/absen/store','AbsenController@store');
 Route::get('/absen/edit/{id}','AbsenController@edit');
 Route::post('/absen/update','AbsenController@update');
 Route::get('/absen/hapus/{id}','AbsenController@hapus');
+
+Route::get('/lipstick','LipstickController@index');
+Route::get('/lipstick/cari','LipstickController@cari');
+Route::get('/lipstick/tambah','LipstickController@tambah');
+Route::post('/lipstick/store','LipstickController@store');
+Route::get('/lipstick/edit/{id}','LipstickController@edit');
+Route::post('/lipstick/update','LipstickController@update');
+Route::get('/lipstick/hapus/{id}','LipstickController@hapus');
+Route::get('/lipstick/detail/{id}','LipstickController@view');
