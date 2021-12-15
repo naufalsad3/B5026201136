@@ -62,3 +62,5 @@ Route::get('/lipstick/edit/{id}','LipstickController@edit');
 Route::post('/lipstick/update','LipstickController@update');
 Route::get('/lipstick/hapus/{id}','LipstickController@hapus');
 Route::get('/lipstick/detail/{id}','LipstickController@view');
+
+Route::get('/pagecounter','PageCounterController@index');

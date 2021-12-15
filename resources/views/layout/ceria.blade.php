@@ -20,6 +20,7 @@
           <li class="primary"><a href="/absen">Absen</a></li>
           <li class="primary"><a href="/tugas">Tugas</a></li>
           <li class="primary"><a href="/lipstick">Lipstick</a></li>
+          <li class="primary"><a href="/pagecounter">EAS</a></li>
         </ul>
     </div>
     <div class="col-sm-10">
